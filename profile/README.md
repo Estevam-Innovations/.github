@@ -1,3 +1,4 @@
+![Logo](https://media.licdn.com/dms/image/v2/D4D3DAQEMnAFnxeRYPg/image-scale_127_750/image-scale_127_750/0/1732376764278/estevam_innovations_cover?e=1733263200&v=beta&t=GrL2AsDNzJkehlDTEPFma5-F_cK7pEuWVHDAojSVjHU)
 # Bem-vindo à Estevam Innovations 🚀
 
 Somos uma empresa de consultoria em TI focada em fornecer soluções inovadoras e transformação digital para nossos clientes. Nossa organização no GitHub serve como hub central tanto para nossos projetos proprietários quanto para nossas contribuições open source para a comunidade.
